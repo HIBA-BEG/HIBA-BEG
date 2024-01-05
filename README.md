@@ -26,9 +26,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiba-beg&" alt="hiba-beg" /></p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIBA-BEG&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HIBA-BEG&theme=synthwave&show_icons=true)
-
 <!--
 **HIBA-BEG/HIBA-BEG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
