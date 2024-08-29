@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiba-beg" alt="hiba-beg" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, python**
+- 🌱 I’m currently learning **ReactJs**
 
 - 📫 How to reach me **beghiba@gmail.com**
 
