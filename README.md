@@ -13,21 +13,19 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HIBA-BEG&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br/><br/>
+<br/>
 
 - 🌱 I’m currently learning **NestJs & TypeScript**
 
 - 📫 How to reach me **beghiba@gmail.com**
 
 - ⚡ Fun fact **I love music but I can't play any instrument**
-
-<br/><br/>
     
-<br clear="both">
-
+<br/>
 
 <img src="https://raw.githubusercontent.com/HIBA-BEG/HIBA-BEG/output/snake.svg" alt="Snake animation" />
 
+<br/>
 
 # 💻 Tech Stack:
 <div align="center">  
