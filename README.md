@@ -15,7 +15,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning **NestJs & TypeScript**
+- 🌱 I’m currently learning **NestJs & NextJs**
 
 - 📫 How to reach me **beghiba@gmail.com**
 
